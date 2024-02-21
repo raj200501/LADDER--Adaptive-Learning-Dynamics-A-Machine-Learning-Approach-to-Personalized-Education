@@ -20,6 +20,7 @@ test = Dataset(test_set)
 # Assuming 'train.schema' is defined based on the 'train' Dataset
 # The schema should describe the structure of the input data for the model.
 
+#merlin model NVIDIA
 model = mm.DLRMModel(
     train.schema,  # The schema should be obtained from the 'train' dataset
     embedding_dim=64,
