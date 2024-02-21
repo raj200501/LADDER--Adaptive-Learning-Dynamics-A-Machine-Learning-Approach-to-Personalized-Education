@@ -34,3 +34,4 @@ model.fit(train, validation_data=test, batch_size=1024)
 eval_metrics = model.evaluate(test, batch_size=1024, return_dict=True)
 
 print(eval_metrics)
+#end merlin
