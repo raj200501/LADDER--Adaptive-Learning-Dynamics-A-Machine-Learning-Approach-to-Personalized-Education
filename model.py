@@ -4,7 +4,7 @@ from merlin.io import Dataset
 
 # Assuming 'students.csv', 'questions.csv', and 'responses.csv' have been preprocessed
 # and merged into a single DataFrame that is split into train and test sets.
-# Let's call the merged DataFrame 'data'.
+# Let's call the merged DataFrame 'data'
 
 data = pd.read_csv('data.csv')  #git  This is your preprocessed and merged dataset
 
