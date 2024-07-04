@@ -1,6 +1,4 @@
-# **LADDER - Adaptive Learning Dynamics**
-
-## **A Machine Learning Approach to Personalized Education Through Behavioral Analysis**
+# **LADDER - Adaptive Learning Dynamics: A Machine Learning Approach to Personalized Education Through Behavioral Analysis**
 
 ## Stanford TreeHacks Hackathon Project -- Further adapted into a research paper
 
